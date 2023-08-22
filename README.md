@@ -6,27 +6,18 @@
 ## 🍎Overview
 `프로젝트` 3D Segmented Control <br>
 `기술스택` <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <br>
-`게시일자` 2023년 7월 22일(토) <br>
-
-## ✅Features
-
-* (내용)
+`게시일자` 2023년 8월 22일(화) <br>
 
 ## ⚒️Built With
 
-* (내용)
+* Swift/SwiftUI
 
 ## 🏙️Images
 
 | 이미지 |
 | :--: |
-| <img src="<이미지 주소>" align="center" width="235" height="511"> |
-
-## 📚What I Learned
-
-* (내용)
-  + (내용)
+| <img src="https://github.com/rlarjsdn3/3d-segmented-control-swiftui-toy-project/assets/21079970/8186752a-6051-4f39-9080-30cdc2d3f2a3" align="center" width="235" height="511"> |
  
 ## 👩🏻‍💻Reference
 
-* (내용)
+* [KavSoft](https://www.youtube.com/watch?v=iblenfAwjlA&t=471s)
